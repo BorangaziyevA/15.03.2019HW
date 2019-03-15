@@ -1,0 +1,6 @@
+5
+Red 25 50
+Black 23 45
+Blue 10 23
+Grey 40 80 
+Yellow 30 45
